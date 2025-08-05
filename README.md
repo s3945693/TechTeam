@@ -1,5 +1,4 @@
-# TeachTeam Login System s3898594-s3945693-a1
-
+# TeachTeam Login System
 A web-based login system for **TeachTeam** that enables new Lecturers and Candidate Applicants to sign up, log in, and apply for their chosen courses. The platform also allows lecturers to review applications and select candidates based on their qualifications.
 
 ## ✨ Features
